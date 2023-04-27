@@ -16,11 +16,23 @@
           <button @click="setGoal">Set</button>
         </div>
 
+        <div>
+          <h2>Add Food Dish from Dataset</h2>
+          <select id="food-dropdown" v-model="selectedFood" @change="handleFoodChange">
+      <option value="">Select a food</option>
+      <option v-for="food in foods" :key="food.name" :value="food.name">
+        {{ food.name }} ({{ food.calories }} calories)
+      </option>
+    </select>
+    <br>
+    <button @click="handleButtonClick" :disabled="!selectedFood">Add Intake</button>
+        </div>
+
         <form @submit.prevent="addIntake">
-          <h2>Add new food item</h2>
+          <h2>Add Custom Food Dish</h2>
           <label for="description">Item Name:</label>
           <br />
-          <input type="text" id="description" v-model="description" required />
+          <input type="text" id="descripti2010on" v-model="description" required />
           <br />
           <label for="calories">Calorie Count:</label>
           <br />
@@ -32,14 +44,25 @@
     </div>
     <div class="part2">
       <div class="card">
-        <h2>Track Water</h2>
+        <!-- <h2>Track Water</h2>
         <input id="water-input" type="number" v-model="water" />
         <div class="water-tracker">
           <button @click="oneml">50 ML</button>
           <button @click="twoml">100 ML</button>
           <button @click="threeml">200 ML</button>
           <button @click="resetWater">Reset</button>
-        </div>
+        </div> -->
+        <div>
+    <h1>Water Tracker</h1>
+    <!-- <p>{{ currentDate }}</p> -->
+    <!-- <p>Try drinking eight a day!</p> -->
+    <p>{{ numOfGlassesToday }}</p>
+    <button class="btn margin btn-primary" @click="addNewGlass">Add Glass</button>
+    <button class="btn margin btn-danger" @click="resetMe">Reset</button>
+    <div class="glass" :class="{ filled: isFilled }">
+      <div class="water" :style="{ height: waterHeight }"></div>
+    </div>
+  </div>
       </div>
       <div class="card">
         <h2>BMI</h2>
@@ -91,6 +114,8 @@ import Chart from "chart.js/auto";
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
+import foodsData from "@/./Food.json";
+
 
 export default{
   data() {
@@ -104,6 +129,15 @@ export default{
       intakes: [],
       height: null,
       weight: null,
+      myDate: new Date(),
+      currentDay: null,
+      currentDayCopy: null,
+      numOfGlassesToday: 0,
+      waterHeight: "0%",
+      isFilled: false,
+      foods: foodsData.indian_foods,
+      selectedFood: "",
+      selectedFoodCalories: 0,
     };
   },
   created() {
@@ -187,47 +221,17 @@ export default{
       });
 
   },
-  // mounted() {
-  //   // load graph when the page is mounted
-  //   if (this.chart) {
-  //     this.chart.destroy();
-  //   }
-
-  //   // Get data for the chart
-  //   const data = {
-  //     labels: ["Intake", "Remaining Goal"],
-  //     datasets: [
-  //       {
-  //         data: [
-  //           this.totalCalories,
-  //           this.goal - this.totalCalories < 0
-  //             ? 0
-  //             : this.goal - this.totalCalories,
-  //         ],
-  //         backgroundColor: ["#4caf50", "#a6a6a6"],
-  //       },
-  //     ],
-  //   };
-
-  //   // Get options for the chart
-  //   const options = {
-  //     responsive: true,
-  //     maintainAspectRatio: false,
-  //     plugins: {
-  //       legend: {
-  //         display: false,
-  //       },
-  //     },
-  //   };
-
-  //   // Draw the chart
-  //   const ctx = document.getElementById("myChart").getContext("2d");
-  //   this.chart = new Chart(ctx, {
-  //     type: "doughnut",
-  //     data: data,
-  //     options: options,
-  //   });
-  // },
+  mounted() {
+    this.currentDay = this.myDate.getDay();
+    this.currentDayCopy = this.currentDay;
+    if (typeof Storage !== "undefined") {
+      if (localStorage.glassesOfWaterToday) {
+        this.numOfGlassesToday = localStorage.glassesOfWaterToday;
+        this.setWaterAmount(this.numOfGlassesToday);
+      }
+    }
+    this.updateCurrentDate();
+  },
   beforeDestroy() {
     console.log("before Destroyed called");
     fetch(
@@ -329,10 +333,134 @@ export default{
         options: options,
       });
     },
+    addNewGlass() {
+      if (this.currentDayCopy == this.myDate.getDay()) {
+        if (typeof Storage !== "undefined") {
+          if (localStorage.glassesOfWaterToday) {
+            localStorage.glassesOfWaterToday++;
+            this.numOfGlassesToday = localStorage.glassesOfWaterToday;
+            this.setWaterAmount(this.numOfGlassesToday);
+            this.isFilled = true;
+            setTimeout(() => {
+              this.isFilled = false;
+            }, 500);
+          } else {
+            localStorage.glassesOfWaterToday = 1;
+            this.numOfGlassesToday = localStorage.glassesOfWaterToday;
+            this.setWaterAmount(this.numOfGlassesToday);
+            this.isFilled = true;
+            setTimeout(() => {
+              this.isFilled = false;
+            }, 500);
+          }
+        } else {
+          alert("Local Storage Is Not Supported");
+        }
+      } else {
+        console.log("Date is different");
+      }
+    },
+    setWaterAmount(glasses) {
+      switch (glasses) {
+        case "0":
+          this.waterHeight = "0%";
+          break;
+        case "1":
+          this.waterHeight = "12.5%";
+          break;
+        case "2":
+          this.waterHeight = "25%";
+          break;
+        case "3":
+          this.waterHeight = "37.5%";
+          break;
+        case "4":
+          this.waterHeight = "50%";
+          break;
+        case "5":
+          this.waterHeight = "62.5%";
+          break;
+        case "6":
+          this.waterHeight = "75%";
+          break;
+        case "7":
+          this.waterHeight = "87.5%";
+          break;
+        case "8":
+          this.waterHeight = "100%";
+          setTimeout(() => {
+            this.resetMe();
+          }, 1000);
+          break;
+        default:
+          console.log("Something went wrong");
+      }
+    },
+    resetMe() {
+      if (typeof Storage !== "undefined") {
+        if (localStorage.glassesOfWaterToday) {
+          localStorage.glassesOfWaterToday = 0;
+          this.numOfGlassesToday = localStorage.glassesOfWaterToday;
+          this.waterHeight = "0%";
+        }
+      } else {
+        alert("No local storage found");
+      }
+    },
+    updateCurrentDate() {
+      setInterval(() => {
+        this.myDate = new Date();
+        this.currentDate = this.myDate.toLocaleString();
+      }, 1000);
+    },
+    handleFoodChange(event) {
+      const selectedFoodName = event.target.value;
+      const selectedFood = this.foods.find((food) => food.name === selectedFoodName);
+      this.selectedFoodCalories = selectedFood ? selectedFood.calories : 0;
+      this.selectedFood = selectedFoodName;
+    },
+    handleButtonClick() {
+      const selectedFood = this.foods.find((food) => food.name === this.selectedFood);
+      this.intakes.push({
+        description: selectedFood.name,
+        calories: selectedFood.calories,
+      });
+      this.updateChart();
+    },
   },
 };
 </script>
 <style scoped>
+
+.glass {
+  margin: 50px auto;
+  height: 320px;
+  width: 210px;
+  position: relative;
+  border-style: none solid solid solid;
+  border-width: 8px;
+  border-color: lightgray;
+  border-radius: 10px;
+  transition: background-color 0.5s ease;
+}
+
+.filled {
+  background-color: rgba(184, 184, 184, 0.3);
+}
+
+.water {
+  width: 100%;
+  height: 10%;
+  background-color: skyblue;
+  position: absolute;
+  bottom: 0;
+  transition: height 0.5s ease;
+}
+
+#numOfGlassesToday {
+  font-size: 48px;
+}
+
 .dashboard {
   display: flex;
   justify-content: space-between;
@@ -355,6 +483,12 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+/* .margin{
+  margin-left: 20;
+
+  margin-right: 0;
+} */
 
 .part1 {
   flex: 1;
@@ -383,7 +517,8 @@ h2 {
 
 /* Style for text boxes */
 input[type="text"],
-input[type="number"] {
+input[type="number"],
+select {
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 7px;
@@ -400,7 +535,7 @@ button {
   border: none;
   border-radius: 4px;
   padding: 12px 24px;
-  margin: 8px 10px;
+  margin: 10px 10px;
   cursor: pointer;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease;
