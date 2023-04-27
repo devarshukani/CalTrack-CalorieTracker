@@ -36,10 +36,12 @@ export default {
                 .then((user) => {
                     console.log(user.data);
                     alert("Account Created Successfully");
+                    this.$router.push("/profile");
                 })
                 .catch((err) => {
                     alert(err);
                 });
+                
         },
     },
 };
