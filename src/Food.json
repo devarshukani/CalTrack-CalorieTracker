@@ -1,3341 +1,3344 @@
-[{
+{
+  "indian_foods": [
+    {
       "name": "Aam Panna",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Aam Panna",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Aam Papad",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Aam Ras",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Aamer Chatni",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Aamras",
       "calories": "273"
-   },
-   {
+    },
+    {
       "name": "Aamras",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Aamti",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Ajwain Paratha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Akhoi er Chakuli",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloe Vera Juice",
       "calories": "36"
-   },
-   {
+    },
+    {
       "name": "Aloe Vera Juice",
       "calories": "36"
-   },
-   {
+    },
+    {
       "name": "Aloo Chaat",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Chana Kulcha",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Aloo Fulkopir Dalna",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Aloo Gobi",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Aloo Gobi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo gobi",
       "calories": "236"
-   },
-   {
+    },
+    {
       "name": "Aloo Gobi ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Kulcha",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Aloo Matar",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Matar ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Methi",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Aloo Methi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Paratha",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Aloo Paratha",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Aloo Paratha",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Aloo Phulkopir Dalna",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Aloo Pitika",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Aloo Posto",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Potol Posto",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Pyaaz ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Aloo Tikki",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Alur Torkari",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Amritsari Kulcha",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Andhra Chicken Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Andhra Chicken Curry",
       "calories": "380"
-   },
-   {
+    },
+    {
       "name": "Appam",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Apple",
       "calories": "95"
-   },
-   {
+    },
+    {
       "name": "Apricot",
       "calories": "48"
-   },
-   {
+    },
+    {
       "name": "Arunachal Fried Rice",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Assam Laksa",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Avial",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Avial",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Avocado",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Avocado Toast",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Badam Milk",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bael Fruit",
       "calories": "139"
-   },
-   {
+    },
+    {
       "name": "Bael Sharbat",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Bael Sharbat",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Bai",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Baingan Bharta",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Baingan Bharta",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Baingan bharta",
       "calories": "187"
-   },
-   {
+    },
+    {
       "name": "Bajra Roti",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Bajre ki Roti",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bamboo Shoot Bharta",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bamboo Shoot Fry",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bamboo Shoot Pickle",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Bamboo Shoot Soup",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Banana",
       "calories": "105"
-   },
-   {
+    },
+    {
       "name": "Batata Vada",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Beef and Broccoli",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Beef and Mushroom Pie",
       "calories": "420"
-   },
-   {
+    },
+    {
       "name": "Beef Chili",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Beef Enchiladas",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Beef Fajitas",
       "calories": "410"
-   },
-   {
+    },
+    {
       "name": "Beef Kebab",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Beef Quesadillas",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Beef Stir Fry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Beef Stroganoff",
       "calories": "510"
-   },
-   {
+    },
+    {
       "name": "Beef Tacos",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Beer (light)",
       "calories": "103"
-   },
-   {
+    },
+    {
       "name": "Beer (regular)",
       "calories": "153"
-   },
-   {
+    },
+    {
       "name": "Beetroot Juice",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Begun Bhaja",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bel juice",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Bel ka Sharbat",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bel Sharbat",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Besan Chakki",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Besan Chilla",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Besan Roti",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Bhaja Moonger Dal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhakarwadi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhakri",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Bhakri",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bhakri",
       "calories": "110"
-   },
-   {
+    },
+    {
       "name": "Bhakri (Bajra)",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Bhakri (Jowar)",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Bhang Thandai",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhapa Chingri",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Bhapa Doi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhapa Doi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhapa Ilish",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bhapa Ilish",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bhapa Maach",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharli Bhendi",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharli Bhendi Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharli Karli",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharli Vangi",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharli Vangi Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bharwa Bhindi",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Bhatura",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Bhetki Paturi",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Bhindi Fry",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bhindi ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhindi Masala",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhindi Masala",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhindi Masala",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Bhoot Jolokia Chicken",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Bhut Jolokia Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Bibimbap",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Bikaneri Bhujia",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Biryani",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Biryani",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Biryani",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Bisi Bele Bath",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Bisi Bele Bath",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Black Currant",
       "calories": "63"
-   },
-   {
+    },
+    {
       "name": "Bonda",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Bori Diye Lau Ghonto",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Burger",
       "calories": "354"
-   },
-   {
+    },
+    {
       "name": "Burrito",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Butter Chicken",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Butter chicken",
       "calories": "615"
-   },
-   {
+    },
+    {
       "name": "Butter Chicken",
       "calories": "369"
-   },
-   {
+    },
+    {
       "name": "Butterfly pea flower tea",
       "calories": "0"
-   },
-   {
+    },
+    {
       "name": "Buttermilk",
       "calories": "40"
-   },
-   {
+    },
+    {
       "name": "Buttermilk",
       "calories": "40"
-   },
-   {
+    },
+    {
       "name": "Cabbage Kofta",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Caesar Salad",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Cantaloupe",
       "calories": "34"
-   },
-   {
+    },
+    {
       "name": "Carrot Juice",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Chaas",
       "calories": "40"
-   },
-   {
+    },
+    {
       "name": "Chaat",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chaat Papdi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chai (with milk and sugar)",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chak-Hao Kheer",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Chakki ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chamthong",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chana Dal",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Chana Masala",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chana Masala",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chana masala",
       "calories": "157"
-   },
-   {
+    },
+    {
       "name": "Chapati",
       "calories": "71"
-   },
-   {
+    },
+    {
       "name": "Chapati",
       "calories": "71"
-   },
-   {
+    },
+    {
       "name": "Cheese Naan",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Cheeseburger",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Cherry",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Chettinad Chicken",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Chhachh",
       "calories": "20"
-   },
-   {
+    },
+    {
       "name": "Chicken 65",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Chicken Alfredo",
       "calories": "580"
-   },
-   {
+    },
+    {
       "name": "Chicken and Broccoli",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chicken Biryani",
       "calories": "600"
-   },
-   {
+    },
+    {
       "name": "Chicken Biryani",
       "calories": "580"
-   },
-   {
+    },
+    {
       "name": "Chicken Biryani Fry",
       "calories": "490"
-   },
-   {
+    },
+    {
       "name": "Chicken Biryani Masala",
       "calories": "580"
-   },
-   {
+    },
+    {
       "name": "Chicken Biryani Masala Fry",
       "calories": "590"
-   },
-   {
+    },
+    {
       "name": "Chicken Caesar Salad",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Chicken Chettinad",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chicken Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chicken Curry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Chicken Curry Fry",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Chicken Enchiladas",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Chicken Fajitas",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Chicken Fried Rice",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Chicken Fried Rice",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Chicken Fry Masala",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Chicken Kebab",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Chicken Kebab",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Chicken Kebab Fry",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Chicken Korma",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Chicken Korma",
       "calories": "380"
-   },
-   {
+    },
+    {
       "name": "Chicken Korma Fry",
       "calories": "390"
-   },
-   {
+    },
+    {
       "name": "Chicken Manchurian",
       "calories": "225"
-   },
-   {
+    },
+    {
       "name": "Chicken Masala",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chicken Masala",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Chicken Masala Fry",
       "calories": "390"
-   },
-   {
+    },
+    {
       "name": "Chicken Noodles",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Chicken Pulao",
       "calories": "430"
-   },
-   {
+    },
+    {
       "name": "Chicken Quesadillas",
       "calories": "315"
-   },
-   {
+    },
+    {
       "name": "Chicken Satay",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Chicken Schezwan",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Chicken Tacos",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chicken Tandoori",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Chicken Teriyaki",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Chicken Tikka",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chicken Tikka Masala",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Chicken tikka masala",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Chicken Tikka Masala",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Chicken Tikka Masala Fry",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Chicken Vindaloo",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Chicken Wings",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Chilli Chicken",
       "calories": "308"
-   },
-   {
+    },
+    {
       "name": "Chilli Chicken Gravy",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Chilli Fish",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Chilli Garlic Chicken",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Chilli Garlic Noodles",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Chilli Mushroom",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Chilli Paneer",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Chilli Potato",
       "calories": "230"
-   },
-   {
+    },
+    {
       "name": "Chingri Bhapa",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Chingri Macher Malaikari",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Chitol Maacher Muithya",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Cholar Dal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Chole Bhature",
       "calories": "650"
-   },
-   {
+    },
+    {
       "name": "Chole bhature",
       "calories": "450"
-   },
-   {
+    },
+    {
       "name": "Chow Mein",
       "calories": "237"
-   },
-   {
+    },
+    {
       "name": "Churma Ladoo",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Churma Ladoo",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Clam Chowder",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Clementine",
       "calories": "35"
-   },
-   {
+    },
+    {
       "name": "Club Sandwich",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Cobb Salad",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Coconut",
       "calories": "283"
-   },
-   {
+    },
+    {
       "name": "Coconut Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Coconut Rice",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Coconut Sevai",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Coconut Water",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Coconut water",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Coffee (black)",
       "calories": "2"
-   },
-   {
+    },
+    {
       "name": "Coffee (with cream and sugar)",
       "calories": "70"
-   },
-   {
+    },
+    {
       "name": "Crab",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Crab Cakes",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Cranberry",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Crispy Chilli Baby Corn",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Cucumber",
       "calories": "15"
-   },
-   {
+    },
+    {
       "name": "Cucumber Juice",
       "calories": "16"
-   },
-   {
+    },
+    {
       "name": "Curd Rice",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Custard Apple",
       "calories": "94"
-   },
-   {
+    },
+    {
       "name": "Dahi Bhalla",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Dahi vada",
       "calories": "256"
-   },
-   {
+    },
+    {
       "name": "Dal Baati Churma",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Dal Bafla",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Dal Dhokli",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Dal Makhani",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Dal makhani",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Dal Tadka",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Dhokar Dalna",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Dhokla",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Dim Sum",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Dohneiiong",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Doodhi Muthiya",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Dosa",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Dosa",
       "calories": "133"
-   },
-   {
+    },
+    {
       "name": "Dragon Fruit",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Dumplings",
       "calories": "41"
-   },
-   {
+    },
+    {
       "name": "Egg Fried Rice",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Egg Rolls",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Fafda",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Fajitas",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Falooda",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Figs",
       "calories": "74"
-   },
-   {
+    },
+    {
       "name": "Fish and Chips",
       "calories": "800"
-   },
-   {
+    },
+    {
       "name": "Fish and Chips",
       "calories": "800"
-   },
-   {
+    },
+    {
       "name": "Fish and Rice",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Fish and Vegetables",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Fish Biryani",
       "calories": "630"
-   },
-   {
+    },
+    {
       "name": "Fish Biryani Fry",
       "calories": "660"
-   },
-   {
+    },
+    {
       "name": "Fish Biryani Masala",
       "calories": "690"
-   },
-   {
+    },
+    {
       "name": "Fish Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Fish Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Fish Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Fish Curry",
       "calories": "230"
-   },
-   {
+    },
+    {
       "name": "Fish Curry Fry",
       "calories": "340"
-   },
-   {
+    },
+    {
       "name": "Fish Curry Masala",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Fish Fry",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Fish Fry Masala",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Fish Fry Masala Fry",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Fish Kebab",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Fish Kebab Fry",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Fish Korma",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Fish Korma Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Fish Masala",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Fish Masala Fry",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Fish Pakora",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Fish Pie",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Fish Pulao",
       "calories": "420"
-   },
-   {
+    },
+    {
       "name": "Fish Sandwich",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Fish Soup",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Fish Stew",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Fish Tacos",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Fish Tenga",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Fish Tikka",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Fish Tikka Masala",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Fish Vindaloo",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "French Fries",
       "calories": "365"
-   },
-   {
+    },
+    {
       "name": "Fried Rice",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Fried Rice",
       "calories": "235"
-   },
-   {
+    },
+    {
       "name": "Fruit Juice",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (apple)",
       "calories": "117"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (grape)",
       "calories": "152"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (mango)",
       "calories": "128"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (orange)",
       "calories": "112"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (pineapple)",
       "calories": "133"
-   },
-   {
+    },
+    {
       "name": "Fruit juice (pomegranate)",
       "calories": "134"
-   },
-   {
+    },
+    {
       "name": "Fruit Punch",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Fulka",
       "calories": "70"
-   },
-   {
+    },
+    {
       "name": "Gajar Ka Halwa",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Gajar ka halwa",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Ganne Ka Ras",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Ganne ka Ras",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Garlic Naan",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Garlic Paratha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Gathiya",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Gatte ka Pulao",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Gatte ki Sabzi",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Gawar ki Phalli ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "General Tso's Chicken",
       "calories": "420"
-   },
-   {
+    },
+    {
       "name": "Ghevar",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Goan Fish Curry",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Gobi Manchurian",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Gooseberry",
       "calories": "44"
-   },
-   {
+    },
+    {
       "name": "Grape Juice",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Grapefruit",
       "calories": "52"
-   },
-   {
+    },
+    {
       "name": "Grapes",
       "calories": "67"
-   },
-   {
+    },
+    {
       "name": "Grilled Chicken",
       "calories": "165"
-   },
-   {
+    },
+    {
       "name": "Guava",
       "calories": "37"
-   },
-   {
+    },
+    {
       "name": "Guava Juice",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Gujarati Dal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Gujarati Dal Dhokli",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Gujarati Dal Vada",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Gujarati Handvo",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Gujarati Kadhi",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Gujarati Kadi",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Gujarati Kadi",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Gujarati Khichdi",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Gujarati Sev Tameta",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Gujarati Sukhi Bhaji",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Gujarati Thali",
       "calories": "800"
-   },
-   {
+    },
+    {
       "name": "Gulab Jamun",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Gulab jamun",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Gulkand Milk",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Hakka Noodles",
       "calories": "289"
-   },
-   {
+    },
+    {
       "name": "Handvo",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Honeydew",
       "calories": "64"
-   },
-   {
+    },
+    {
       "name": "Hot and Sour Soup",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Hot Dog",
       "calories": "151"
-   },
-   {
+    },
+    {
       "name": "Hyderabadi Biryani",
       "calories": "450"
-   },
-   {
+    },
+    {
       "name": "Hyderabadi Chicken",
       "calories": "425"
-   },
-   {
+    },
+    {
       "name": "Iced tea (sweetened)",
       "calories": "135"
-   },
-   {
+    },
+    {
       "name": "Iced tea (unsweetened)",
       "calories": "2"
-   },
-   {
+    },
+    {
       "name": "Idli",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Idli",
       "calories": "39"
-   },
-   {
+    },
+    {
       "name": "Ilish Mach Bhaja",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Imli ki Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Indian Blackberry",
       "calories": "40"
-   },
-   {
+    },
+    {
       "name": "Indian Gooseberry",
       "calories": "44"
-   },
-   {
+    },
+    {
       "name": "Indian Jujube",
       "calories": "79"
-   },
-   {
+    },
+    {
       "name": "Iromba",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Jackfruit",
       "calories": "94"
-   },
-   {
+    },
+    {
       "name": "Jadoh",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Jalebi",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Jaljeera",
       "calories": "15"
-   },
-   {
+    },
+    {
       "name": "Jaljeera",
       "calories": "15"
-   },
-   {
+    },
+    {
       "name": "Jaljeera Sharbat",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Jamun",
       "calories": "79"
-   },
-   {
+    },
+    {
       "name": "Jeera water",
       "calories": "0"
-   },
-   {
+    },
+    {
       "name": "Jowar Roti",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Kachori",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kachri ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kadai Chicken",
       "calories": "340"
-   },
-   {
+    },
+    {
       "name": "Kadai Paneer",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kadai paneer",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Kadhai Chicken",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kadhai Paneer",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kadhi",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Kadhi Khichdi",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Kadhi Pakodi",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Kairi ki Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Kairichi Dal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kaju Mutter Masala",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kalmi Vada",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kanchkolar Kofta",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kanda Bhaji",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kanda Pithla",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kanda Poha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kande Pohe",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kanji",
       "calories": "30"
-   },
-   {
+    },
+    {
       "name": "Kanji",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Kanji Vellam",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Kashmiri Naan",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Katachi Amti",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Katla Macher Kalia",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Keema Naan",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Ker Sangri",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Ker Sangri ka Achaar",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Ker Sangri ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kerala Fish Curry",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kerala Paratha",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kerala Prawn Curry",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kesar Badam Milk",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Kesar Milk",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kesar Pista Milk",
       "calories": "235"
-   },
-   {
+    },
+    {
       "name": "Kesar Thandai",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kesari Bath",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Khaman",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Khamang Kakdi",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Khamiri Roti",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Khandvi",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Khandvi",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Khar",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Khar Duck",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Kharoli",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kharoli Maas",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Khatta Dhokla",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Kheer",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kheer",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Khichu",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Khus Sharbat",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Kiwi",
       "calories": "61"
-   },
-   {
+    },
+    {
       "name": "Kochi Pathar Jhol",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kochi Pathar Jhol",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kochi Pathar Jhol",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kokam Sharbat",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Kokum Sherbet",
       "calories": "90"
-   },
-   {
+    },
+    {
       "name": "Koldil Chicken",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Kolhapuri Chicken",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kolhapuri Misal",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Kolhapuri Pandhra Rassa",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kolhapuri Sukka Mutton",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Kolhapuri Tambda Rassa",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kolkata-style Chicken Biryani",
       "calories": "600"
-   },
-   {
+    },
+    {
       "name": "Koraishutir Kochuri",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kosha Bhetki",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Kosha Mangsho",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kosha Murgir Mangsho",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Kothimbir Vadi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kothimbir Vadi Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Kothimbir Wadi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kulcha",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Kulfi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Kung Pao Chicken",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Laal Maas",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Lachha Paratha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lamb Biryani",
       "calories": "750"
-   },
-   {
+    },
+    {
       "name": "Lamb Curry",
       "calories": "340"
-   },
-   {
+    },
+    {
       "name": "Lamb Kebab",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Lamb Kebab Fry",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Lamb Korma",
       "calories": "450"
-   },
-   {
+    },
+    {
       "name": "Lamb Korma Fry",
       "calories": "490"
-   },
-   {
+    },
+    {
       "name": "Lamb Masala",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Lasagna",
       "calories": "329"
-   },
-   {
+    },
+    {
       "name": "Lassi",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Lassi",
       "calories": "159"
-   },
-   {
+    },
+    {
       "name": "Lassi",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Lassi (salty)",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Lassi (sweet)",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Lasun ki Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Lau Chingri",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lau Ghonto",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Lehsun ki Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Lemon",
       "calories": "29"
-   },
-   {
+    },
+    {
       "name": "Lemon Rice",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lemon Rice",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lemon Sevai",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lilva Kachori",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Lime",
       "calories": "30"
-   },
-   {
+    },
+    {
       "name": "Litchi",
       "calories": "66"
-   },
-   {
+    },
+    {
       "name": "Litti Chokha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Lobster",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Lobster Bisque",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Luchi with Aloo Dum",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Luchi with Chholar Dal and Alur Dom",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Luchi with Cholar Dal",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Mac and Cheese",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Macher Jhol",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Macher Kalia",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Macher Matha Diye Moong Dal",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Makki ki Roti",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Makki ki Roti",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Makki ki Roti with Sarson ka Saag",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Malai Kofta",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Malai kofta",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Manchurian",
       "calories": "213"
-   },
-   {
+    },
+    {
       "name": "Mango",
       "calories": "135"
-   },
-   {
+    },
+    {
       "name": "Mango Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Mango Frooti",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Mango Juice",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Mango Lassi",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Mango Shake",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Masala Chai",
       "calories": "30"
-   },
-   {
+    },
+    {
       "name": "Masala chai",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Masala Chai (with milk and sugar)",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Masala Vada",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Masale Bhaat",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Masor Tenga",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Matar Paneer",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Matar Paneer",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Matar paneer",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Matar Usal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Matki Usal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Mawa Kachori",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Meatballs",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Medu Vada",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Methi Bajra Puri",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Methi Muthiya",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Methi Papad ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Methi Paratha",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Methi Thepla",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Methi Thepla",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Methi Thepla",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Mint and Coriander Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Mint Lassi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Mirchi Bada",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Misa Mach Poora",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Misal Pav",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Mishti Doi",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Missi Roti",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Missi Roti",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Modak",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Mohanthal",
       "calories": "240"
-   },
-   {
+    },
+    {
       "name": "Momo",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Momos",
       "calories": "47"
-   },
-   {
+    },
+    {
       "name": "Moong Dal Halwa",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Mughlai Paratha",
       "calories": "360"
-   },
-   {
+    },
+    {
       "name": "Murgh musallam",
       "calories": "390"
-   },
-   {
+    },
+    {
       "name": "Musk Melon",
       "calories": "34"
-   },
-   {
+    },
+    {
       "name": "Muthia",
       "calories": "170"
-   },
-   {
+    },
+    {
       "name": "Mutton Biryani",
       "calories": "600"
-   },
-   {
+    },
+    {
       "name": "Mutton Biryani",
       "calories": "560"
-   },
-   {
+    },
+    {
       "name": "Mutton Curry",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Mutton Curry",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Mutton Fry",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Mutton Kebab",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Mutton Kebab Fry",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Mutton Korma",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Mutton Korma Fry",
       "calories": "440"
-   },
-   {
+    },
+    {
       "name": "Mutton Masala",
       "calories": "420"
-   },
-   {
+    },
+    {
       "name": "Mutton Masala Fry",
       "calories": "420"
-   },
-   {
+    },
+    {
       "name": "Mutton Pulao",
       "calories": "530"
-   },
-   {
+    },
+    {
       "name": "Mutton Rezala",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Mutton Rogan Josh",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Mutton Rogan Josh",
       "calories": "397"
-   },
-   {
+    },
+    {
       "name": "Mutton Tikka",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Mutton Tikka Masala",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Mutton Vindaloo",
       "calories": "340"
-   },
-   {
+    },
+    {
       "name": "Mysore Masala Dosa",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Mysore Pak",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Naan",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Naan",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Naga Pork Curry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Naga Style Smoked Pork",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Nariyal Pani",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Nimbu Pani",
       "calories": "10"
-   },
-   {
+    },
+    {
       "name": "Nimbu Pani",
       "calories": "70"
-   },
-   {
+    },
+    {
       "name": "Noodles",
       "calories": "138"
-   },
-   {
+    },
+    {
       "name": "Onion Chutney",
       "calories": "70"
-   },
-   {
+    },
+    {
       "name": "Onion Kachori",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Onion Kulcha",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Orange",
       "calories": "62"
-   },
-   {
+    },
+    {
       "name": "Orange Chicken",
       "calories": "380"
-   },
-   {
+    },
+    {
       "name": "Ou Tenga with Shrimp",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Pad Thai",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Pakora",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Palak Paneer",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Palak paneer",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Palak Paratha",
       "calories": "230"
-   },
-   {
+    },
+    {
       "name": "Panakam",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Pancakes",
       "calories": "291"
-   },
-   {
+    },
+    {
       "name": "Panch Phoron Tarkari",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Panchmel Dal",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Paneer Bhurji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Paneer Butter Masala",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Paneer Paratha",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Paneer Tikka",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Pani puri",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Papad ka Saag",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Papad ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Papad ki Sabzi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Papaya",
       "calories": "59"
-   },
-   {
+    },
+    {
       "name": "Papaya Juice",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Papaya Khar",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Papdi Chaat",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Paratha",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Paratha",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Passion Fruit",
       "calories": "97"
-   },
-   {
+    },
+    {
       "name": "Pasta",
       "calories": "131"
-   },
-   {
+    },
+    {
       "name": "Patal Bhaji",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Patra",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Pav Bhaji",
       "calories": "450"
-   },
-   {
+    },
+    {
       "name": "Pav Bhaji",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Pav bhaji",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pavta Batata Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Peach",
       "calories": "59"
-   },
-   {
+    },
+    {
       "name": "Pear",
       "calories": "101"
-   },
-   {
+    },
+    {
       "name": "Pesarattu",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Peshawari Naan",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pho",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Pina Colada",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Pitha",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Pitha Guri",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Pithla",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Piyush",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Pizza",
       "calories": "285"
-   },
-   {
+    },
+    {
       "name": "Plum",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Poha",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Poha Chivda",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Pomegranate",
       "calories": "72"
-   },
-   {
+    },
+    {
       "name": "Pomegranate Juice",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Pongal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Pork with Axone",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pork with Bamboo Shoot",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pork with Black Sesame",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pork with Mustard Leaves",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Pork with Naga King Chili",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Potato Salad",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Prawn Biryani",
       "calories": "650"
-   },
-   {
+    },
+    {
       "name": "Prawn Biryani Fry",
       "calories": "520"
-   },
-   {
+    },
+    {
       "name": "Prawn Biryani Masala",
       "calories": "610"
-   },
-   {
+    },
+    {
       "name": "Prawn Biryani Masala Fry",
       "calories": "620"
-   },
-   {
+    },
+    {
       "name": "Prawn Curry",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Prawn Curry",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Prawn Curry Fry",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Prawn Fry",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Prawn Fry Masala",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Prawn Kebab",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Prawn Kebab Fry",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Prawn Korma",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Prawn Korma Fry",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Prawn Malai Curry",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Prawn Masala",
       "calories": "283"
-   },
-   {
+    },
+    {
       "name": "Prawn Masala Fry",
       "calories": "340"
-   },
-   {
+    },
+    {
       "name": "Prawn Masala Fry Masala",
       "calories": "390"
-   },
-   {
+    },
+    {
       "name": "Prawn Pulao",
       "calories": "480"
-   },
-   {
+    },
+    {
       "name": "Prawn Pulusu",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Prawn Tikka",
       "calories": "160"
-   },
-   {
+    },
+    {
       "name": "Prawn Vindaloo",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Prawn with Bottle Gourd",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Pretzels",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Pudina Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Pudina Paratha",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Pudina Rice",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Puliyogare",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Puliyogare",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Punjabi Kadhi",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Puran Poli",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Puran Poli",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Puran Poli Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Puranache Dind",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Puri",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Puri Bhaji",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Puri Bhaji",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Puttu",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Pyaaz Kachori",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Ragi Malt",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Ragi Malt",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Ragi Roti",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Rajasthani Baati",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Rajasthani Dal Baati Churma",
       "calories": "600"
-   },
-   {
+    },
+    {
       "name": "Rajasthani Kadi",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Rajma",
       "calories": "333"
-   },
-   {
+    },
+    {
       "name": "Rajma Masala",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Rambutan",
       "calories": "73"
-   },
-   {
+    },
+    {
       "name": "Ramen",
       "calories": "450"
-   },
-   {
+    },
+    {
       "name": "Ras Malai",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Ras malai",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Rasam",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Rava Dosa",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Rava Kesari",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Red Currant",
       "calories": "56"
-   },
-   {
+    },
+    {
       "name": "Rose Milk",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Rose Sherbet",
       "calories": "85"
-   },
-   {
+    },
+    {
       "name": "Roti",
       "calories": "71"
-   },
-   {
+    },
+    {
       "name": "Rumali Roti",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Rumali Roti",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Sabudana Vada",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sada Roti",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Salmon",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sambar Vada",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Sambaram",
       "calories": "45"
-   },
-   {
+    },
+    {
       "name": "Sambhar",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Samosa",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Samosa",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Samosa",
       "calories": "262"
-   },
-   {
+    },
+    {
       "name": "Samosa",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Samosa Chaat",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Sana Thongba",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sandwich",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Sapota",
       "calories": "83"
-   },
-   {
+    },
+    {
       "name": "Sarson ka Saag",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sarson ka Saag",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sarson ka saag",
       "calories": "110"
-   },
-   {
+    },
+    {
       "name": "Sashimi",
       "calories": "45"
-   },
-   {
+    },
+    {
       "name": "Sattu Drink",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Sattu drink",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Sattu ki Kachori",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Schezwan Fried Rice",
       "calories": "305"
-   },
-   {
+    },
+    {
       "name": "Sev Khamani",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Shahi Paneer",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Shahi paneer",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Sharbat-e-Badam",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sheermal",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Shengdana Chikki",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Shev Bhaji",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Shikanji",
       "calories": "70"
-   },
-   {
+    },
+    {
       "name": "Shorshe Ilish",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Shrikhand",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Shrimp Alfredo",
       "calories": "460"
-   },
-   {
+    },
+    {
       "name": "Shrimp Cocktail",
       "calories": "140"
-   },
-   {
+    },
+    {
       "name": "Shrimp Fried Rice",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Shrimp Scampi",
       "calories": "500"
-   },
-   {
+    },
+    {
       "name": "Shrimp Tacos",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Shukto",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Shukto",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Smoked Meat",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Soda Shikanji",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Soft drinks (cola)",
       "calories": "139"
-   },
-   {
+    },
+    {
       "name": "Soft drinks (lemon-lime)",
       "calories": "148"
-   },
-   {
+    },
+    {
       "name": "Soft drinks (orange)",
       "calories": "155"
-   },
-   {
+    },
+    {
       "name": "Soft drinks (root beer)",
       "calories": "152"
-   },
-   {
+    },
+    {
       "name": "Soya Chunks Manchurian",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Spinach Salad",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Spring Rolls",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Spring Rolls",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Star Fruit",
       "calories": "28"
-   },
-   {
+    },
+    {
       "name": "Sugarcane Juice",
       "calories": "130"
-   },
-   {
+    },
+    {
       "name": "Sugarcane juice",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Sukhdi",
       "calories": "180"
-   },
-   {
+    },
+    {
       "name": "Surti Undhiyu",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Sushi",
       "calories": "129"
-   },
-   {
+    },
+    {
       "name": "Sushi Rolls",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sushi Rolls",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Sweet and Sour Chicken",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Sweet Corn Soup",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Broccoli",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Cashew Nuts",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Garlic Stir Fry",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Ginger Stir Fry",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Green Beans",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Beef and Mushroom Stir Fry",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Broccoli",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Cashew Nuts",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Garlic Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Ginger Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Mushroom Stir Fry",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken and Vegetable Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken Noodles",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Szechuan Chicken Salad",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Szechuan Crab",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Szechuan Duck",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Szechuan Fish",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Szechuan Fried Fish",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Fried Noodles",
       "calories": "310"
-   },
-   {
+    },
+    {
       "name": "Szechuan Fried Rice with Vegetables",
       "calories": "230"
-   },
-   {
+    },
+    {
       "name": "Szechuan Fried Shrimp",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Lamb",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Szechuan Lobster",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Szechuan Mussels",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Octopus",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Szechuan Paneer",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Szechuan Pork",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Szechuan Pork and Garlic Stir Fry",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Szechuan Pork and Mushroom Stir Fry",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Szechuan Pork and Vegetable Stir Fry",
       "calories": "270"
-   },
-   {
+    },
+    {
       "name": "Szechuan Pork Ribs",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Szechuan Prawns",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Sauce",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Szechuan Scallops",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Broccoli",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Cashew Nuts",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Garlic Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Ginger Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Mushroom Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Shrimp and Vegetable Stir Fry",
       "calories": "290"
-   },
-   {
+    },
+    {
       "name": "Szechuan Squid",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu and Broccoli",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu and Cashew Nuts",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu and Garlic Stir Fry",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu and Mushroom Stir Fry",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tofu and Vegetable Soup",
       "calories": "80"
-   },
-   {
+    },
+    {
       "name": "Szechuan Tuna",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Szechuan Vegetable Soup",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Szechuan Vegetables",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Taco Salad",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Tacos",
       "calories": "226"
-   },
-   {
+    },
+    {
       "name": "Tamarind Rice",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Tamatar ki Chutney",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "Tandoori Chicken",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Tandoori chicken",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Tandoori Chicken",
       "calories": "320"
-   },
-   {
+    },
+    {
       "name": "Tandoori Fish Tikka",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Tandoori Kulcha",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Tandoori Naan",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Tandoori Naan",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Tandoori Roti",
       "calories": "147"
-   },
-   {
+    },
+    {
       "name": "Tandoori Roti",
       "calories": "147"
-   },
-   {
+    },
+    {
       "name": "Tangerine",
       "calories": "53"
-   },
-   {
+    },
+    {
       "name": "Tenga Soup",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Thalipeeth",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Thandai",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Thandai",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Thandai Milkshake",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Thayir Vada",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Thepla",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Tilgul",
       "calories": "100"
-   },
-   {
+    },
+    {
       "name": "Tomato",
       "calories": "18"
-   },
-   {
+    },
+    {
       "name": "Tomato Bath",
       "calories": "350"
-   },
-   {
+    },
+    {
       "name": "Tomato Chutney",
       "calories": "60"
-   },
-   {
+    },
+    {
       "name": "Tomato Rice",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Tuna Salad",
       "calories": "220"
-   },
-   {
+    },
+    {
       "name": "Tuna Sandwich",
       "calories": "330"
-   },
-   {
+    },
+    {
       "name": "Tungtap",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Undhiyu",
       "calories": "280"
-   },
-   {
+    },
+    {
       "name": "Upma",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Upma",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Usal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Uthappam",
       "calories": "250"
-   },
-   {
+    },
+    {
       "name": "Vaal Ni Dal",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Vada",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Vada Pav",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Vada pav",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Varan Bhaat",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Veg Manchurian",
       "calories": "190"
-   },
-   {
+    },
+    {
       "name": "Veg Spring Rolls",
       "calories": "120"
-   },
-   {
+    },
+    {
       "name": "Vegetable Fried Rice",
       "calories": "210"
-   },
-   {
+    },
+    {
       "name": "Vegetable Manchurian",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Vegetable Noodles",
       "calories": "260"
-   },
-   {
+    },
+    {
       "name": "Vegetable Pulao",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Vegetable Spring Rolls",
       "calories": "150"
-   },
-   {
+    },
+    {
       "name": "Vegetable Upma",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Vindaloo",
       "calories": "400"
-   },
-   {
+    },
+    {
       "name": "Waffles",
       "calories": "291"
-   },
-   {
+    },
+    {
       "name": "Watermelon",
       "calories": "46"
-   },
-   {
+    },
+    {
       "name": "Watermelon Juice",
       "calories": "50"
-   },
-   {
+    },
+    {
       "name": "White Currant",
       "calories": "63"
-   },
-   {
+    },
+    {
       "name": "Yellow dal",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Zan",
       "calories": "200"
-   },
-   {
+    },
+    {
       "name": "Zarda",
       "calories": "300"
-   },
-   {
+    },
+    {
       "name": "Zunka Bhakri",
       "calories": "300"
-   }
-]
+    }
+  ]
+}
