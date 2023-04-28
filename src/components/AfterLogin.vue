@@ -72,6 +72,7 @@
           <p v-if="bmi < 18.5">Underweight</p>
           <p v-else-if="bmi < 25">Normal</p>
           <p v-else-if="bmi < 30">Overweight</p>
+          <p v-else>Seek Professional Treatment</p>
         </div>
       </div>
 
