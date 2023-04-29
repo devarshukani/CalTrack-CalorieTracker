@@ -2,7 +2,7 @@
   <div id="app">
     <header>
       <nav>
-        <router-link class="logo" to="/"> Calorie Tracker </router-link>
+        <router-link class="logo" to="/"> Cal Track </router-link>
         <ul>
           <li v-if="!isLoggedIn"><router-link to="/sign-in"> Login </router-link></li>
           <li v-if="!isLoggedIn"><router-link to="/register"> Sign Up </router-link></li>
